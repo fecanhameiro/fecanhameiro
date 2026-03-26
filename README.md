@@ -18,11 +18,11 @@ Based in Turin, Italy.
 
 **Projects:**
 
+[**bandz**](https://github.com/fecanhameiro/bandz-showcase) · Live music discovery platform (iOS + Android + Backend + Admin). SwiftUI, Jetpack Compose, Cloud Functions v2, Next.js, Turborepo monorepo.
+
 [**GlassWater**](https://github.com/fecanhameiro/glasswater-showcase) · Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design.
 
 [**GlassTime**](https://github.com/fecanhameiro/glasstime-showcase) · Focus timer (iOS 26+). Server-driven accuracy via Firebase Cloud Functions + APNs push. Live Activities with wall-clock precision.
-
-[**bandz**](https://github.com/fecanhameiro/bandz-showcase) · Live music discovery platform (iOS + Android + Backend + Admin). SwiftUI, Jetpack Compose, Cloud Functions v2, Next.js, Turborepo monorepo.
 
 ---
 
