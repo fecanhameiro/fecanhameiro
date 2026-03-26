@@ -18,13 +18,11 @@ Based in Turin, Italy.
 
 **Projects:**
 
-**GlassWater** · Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design.
+[**GlassWater**](https://github.com/fecanhameiro/glasswater-showcase) · Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design.
 
-**GlassTime** · Focus timer (iOS 26+). Server-driven accuracy via Firebase Cloud Functions + APNs push. Live Activities with wall-clock precision.
+[**GlassTime**](https://github.com/fecanhameiro/glasstime-showcase) · Focus timer (iOS 26+). Server-driven accuracy via Firebase Cloud Functions + APNs push. Live Activities with wall-clock precision.
 
-**bandz** · Live music discovery app (iOS + Android). SwiftUI, Jetpack Compose, custom DI container, design system, Coordinator navigation.
-
-**prismlabs.studio** · Studio landing page. Next.js 16, React 19, Tailwind CSS 4, Framer Motion. 5 languages. Glass-morphism effects.
+[**bandz**](https://github.com/fecanhameiro/bandz-showcase) · Live music discovery platform (iOS + Android + Backend + Admin). SwiftUI, Jetpack Compose, Cloud Functions v2, Next.js, Turborepo monorepo.
 
 ---
 
