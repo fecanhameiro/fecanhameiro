@@ -18,6 +18,8 @@ Based in Turin, Italy.
 
 **What I care about:** Architecture that survives scale. UI that feels physical, with spring physics, glass materials, and controlled motion. Products that respect the people who use them.
 
+**How I work:** Modular systems over monoliths. Protocol-based contracts over tight coupling. Ship fast, but build for the next developer who reads the code.
+
 ---
 
 **Projects:**
