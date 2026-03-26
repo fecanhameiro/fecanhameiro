@@ -10,7 +10,7 @@ Based in Turin, Italy.
 
 ---
 
-**Stack:** Swift · SwiftUI · Kotlin Multiplatform · Firebase · Clean Architecture · .NET · Angular
+**Stack:** Swift · SwiftUI · Kotlin · Jetpack Compose · Firebase · .NET · Angular · SQL Server · Oracle · Clean Architecture
 
 **What I care about:** Architecture that survives scale. UI that feels physical, with spring physics, glass materials, and controlled motion. Products that respect the people who use them.
 
