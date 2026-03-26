@@ -1,10 +1,10 @@
 ### Felipe Canhameiro
 
-Senior Mobile Developer · 18+ years shipping products.
+Senior Mobile Developer · 19+ years shipping products.
 
 Building [Prism Labs](https://prismlabs.studio) — a small indie studio for iOS apps with intentional design.
 Mobile Lead at [Wallife S.p.A.](https://wallife.com) — SwiftUI + Kotlin Multiplatform ecosystem.
-Previously delivered enterprise mobile for 14 years at PerformaIT (Avianca, Groupe SEB, Raízen, BorgWarner).
+14 years at PerformaIT — software consultancy where I worked as full-stack developer, delivery leader, and team manager across clients like Avianca, Groupe SEB, Raízen, and BorgWarner.
 
 Based in Turin, Italy.
 
@@ -18,13 +18,13 @@ Based in Turin, Italy.
 
 **Projects:**
 
-- [**GlassWater**](https://github.com/fecanhameiro/glasswater) — Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design.
+- **GlassWater** — Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design.
 
-- [**GlassTime**](https://github.com/fecanhameiro/glasstime) — Focus timer (iOS 26+). Server-driven accuracy via Firebase Cloud Functions + APNs push. Live Activities with wall-clock precision.
+- **GlassTime** — Focus timer (iOS 26+). Server-driven accuracy via Firebase Cloud Functions + APNs push. Live Activities with wall-clock precision.
 
-- [**bandz-showcase**](https://github.com/fecanhameiro/bandz-showcase) — Architecture sample from bandz (live music discovery app). Custom DI container, design system, Coordinator navigation, premium onboarding flow.
+- **bandz** — Live music discovery app (iOS 18+). Custom DI container, design system, Coordinator navigation, premium onboarding flow.
 
-- [**prismlabs.studio**](https://github.com/fecanhameiro/prismlabs) — Studio landing page. Next.js 16, React 19, Tailwind CSS 4, Framer Motion. 5 languages. Glass-morphism effects.
+- **prismlabs.studio** — Studio landing page. Next.js 16, React 19, Tailwind CSS 4, Framer Motion. 5 languages. Glass-morphism effects.
 
 ---
 
