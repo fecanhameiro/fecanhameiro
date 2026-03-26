@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshot/prism-labs-git-banner.jpg" width="100%" />
+</p>
+
 ### Felipe Canhameiro
 
 Senior Mobile Developer · 19+ years shipping products.
