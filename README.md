@@ -4,10 +4,10 @@
 
 ### Felipe Canhameiro
 
-Senior Mobile Developer · 19+ years shipping products.
+Senior iOS Developer & Mobile Lead · 19+ years building and shipping products end-to-end.
 
-Building [Prism Labs](https://prismlabs.studio), a small indie studio for iOS apps with intentional design.
-Mobile Lead at [Wallife S.p.A.](https://wallife.com), focused on SwiftUI + Kotlin Multiplatform.
+I design scalable mobile architectures, lead mobile platforms, and build products from concept to App Store. Currently leading the iOS ecosystem at [Wallife S.p.A.](https://wallife.com) with SwiftUI + Kotlin Multiplatform, and building [Prism Labs](https://prismlabs.studio), an indie studio for iOS apps with intentional design.
+
 14 years at PerformaIT, a software consultancy where I worked as full-stack developer, delivery leader, and team manager across clients like Avianca, Continental, Groupe SEB, Ri Happy, Raízen, and BorgWarner.
 
 Based in Turin, Italy.
@@ -22,7 +22,7 @@ Based in Turin, Italy.
 
 **Projects:**
 
-[**bandz**](https://github.com/fecanhameiro/bandz-showcase) · Live music discovery platform (iOS + Android + Backend + Admin). SwiftUI, Jetpack Compose, Cloud Functions v2, Next.js, Turborepo monorepo.
+[**bandz**](https://github.com/fecanhameiro/bandz-showcase) · Live music discovery platform I built end-to-end: iOS (SwiftUI), Android (Compose), Cloud Functions v2, Next.js admin dashboard, Astro landing. Turborepo monorepo with shared types and Zod validation across all layers.
 
 [**GlassWater**](https://github.com/fecanhameiro/glasswater-showcase) · Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design. [App Store](https://apps.apple.com/app/id6757977655).
 
