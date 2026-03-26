@@ -2,9 +2,9 @@
 
 Senior Mobile Developer · 19+ years shipping products.
 
-Building [Prism Labs](https://prismlabs.studio) — a small indie studio for iOS apps with intentional design.
-Mobile Lead at [Wallife S.p.A.](https://wallife.com) — SwiftUI + Kotlin Multiplatform ecosystem.
-14 years at PerformaIT — software consultancy where I worked as full-stack developer, delivery leader, and team manager across clients like Avianca, Groupe SEB, Raízen, and BorgWarner.
+Building [Prism Labs](https://prismlabs.studio), a small indie studio for iOS apps with intentional design.
+Mobile Lead at [Wallife S.p.A.](https://wallife.com), focused on SwiftUI + Kotlin Multiplatform.
+14 years at PerformaIT, a software consultancy where I worked as full-stack developer, delivery leader, and team manager across clients like Avianca, Groupe SEB, Raízen, and BorgWarner.
 
 Based in Turin, Italy.
 
@@ -12,19 +12,19 @@ Based in Turin, Italy.
 
 **Stack:** Swift · SwiftUI · Kotlin Multiplatform · Firebase · Clean Architecture · .NET · Angular
 
-**What I care about:** Architecture that survives scale. UI that feels physical — spring physics, glass materials, controlled motion. Products that respect the people who use them.
+**What I care about:** Architecture that survives scale. UI that feels physical, with spring physics, glass materials, and controlled motion. Products that respect the people who use them.
 
 ---
 
 **Projects:**
 
-- **GlassWater** — Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design.
+**GlassWater** · Hydration tracker (iOS 26+). SwiftData, HealthKit, Live Activities, Dynamic Island, Watch app, 5 widget families. Liquid Glass design.
 
-- **GlassTime** — Focus timer (iOS 26+). Server-driven accuracy via Firebase Cloud Functions + APNs push. Live Activities with wall-clock precision.
+**GlassTime** · Focus timer (iOS 26+). Server-driven accuracy via Firebase Cloud Functions + APNs push. Live Activities with wall-clock precision.
 
-- **bandz** — Live music discovery app (iOS 18+). Custom DI container, design system, Coordinator navigation, premium onboarding flow.
+**bandz** · Live music discovery app (iOS + Android). SwiftUI, Jetpack Compose, custom DI container, design system, Coordinator navigation.
 
-- **prismlabs.studio** — Studio landing page. Next.js 16, React 19, Tailwind CSS 4, Framer Motion. 5 languages. Glass-morphism effects.
+**prismlabs.studio** · Studio landing page. Next.js 16, React 19, Tailwind CSS 4, Framer Motion. 5 languages. Glass-morphism effects.
 
 ---
 
