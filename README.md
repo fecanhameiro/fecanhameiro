@@ -4,7 +4,7 @@ Senior Mobile Developer · 19+ years shipping products.
 
 Building [Prism Labs](https://prismlabs.studio), a small indie studio for iOS apps with intentional design.
 Mobile Lead at [Wallife S.p.A.](https://wallife.com), focused on SwiftUI + Kotlin Multiplatform.
-14 years at PerformaIT, a software consultancy where I worked as full-stack developer, delivery leader, and team manager across clients like Avianca, Groupe SEB, Raízen, and BorgWarner.
+14 years at PerformaIT, a software consultancy where I worked as full-stack developer, delivery leader, and team manager across clients like Avianca, Continental, Groupe SEB, Ri Happy, Raízen, and BorgWarner.
 
 Based in Turin, Italy.
 
