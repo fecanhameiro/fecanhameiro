@@ -28,6 +28,6 @@ Based in Turin, Italy.
 
 <sub>
 
-[prismlabs.studio](https://prismlabs.studio) · [linkedin](https://linkedin.com/in/felipe-canhameiro) · [wellfound](https://wellfound.com/felipe-cesar-canhameiro)
+[prismlabs.studio](https://prismlabs.studio) · [linkedin](https://linkedin.com/in/felipe-canhameiro)
 
 </sub>
